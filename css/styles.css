@@ -776,3 +776,8 @@ a {
   max-width: 500px;
   max-width: 0 auto;
 }
+
+/*Features*/
+.feature__heading {
+  margin: 1rem 0;
+}
